@@ -1,6 +1,6 @@
+Hello,I'm Neo 
+https://www.linkedin.com/in/nthekoane-neo-sekgala-b18ab4286
 
-<!--
-**Neo1998-Star/Neo1998-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
