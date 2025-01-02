@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Neo1998-Star/Neo1998-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
